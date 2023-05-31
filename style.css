@@ -1,0 +1,19 @@
+body {
+  background-image: linear-gradient(to right, #ff0018, #ffa52c, #ffff41, #008018, #0000f9, #86007d);
+}
+
+.bloco {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 1%;
+  border: 20px solid white;
+}
+
+.titulo {
+  color: black;
+  padding-top: 2%;
+}
+
+.login {
+  margin-right: 400px;
+}
